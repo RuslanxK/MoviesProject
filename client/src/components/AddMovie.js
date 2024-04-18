@@ -98,8 +98,6 @@ function AddMovie() {
               <input
                 type="number"
                 required
-                min="1900"
-                max="2022"
                 onChange={(e) =>
                   setMovie({ ...movie, premiered: e.target.value })
                 }

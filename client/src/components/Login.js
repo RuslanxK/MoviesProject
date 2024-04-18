@@ -85,7 +85,7 @@ function Login() {
             <p class="control has-icons-left">
               <input
                 class="input"
-                type="text"
+                type="password"
                 placeholder="Password"
                 name="password"
                 onChange={handleChange}
