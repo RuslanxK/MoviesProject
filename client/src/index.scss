@@ -275,9 +275,9 @@ body {
   padding-top: 35px;
   display: grid;
   grid-template-columns: 230px 230px 230px 230px 230px;
-  height: 100vh;
   justify-content: space-between;
   align-items: flex-start;
+  
 
   .watchBtn {
     color: black;
@@ -899,7 +899,7 @@ body {
     flex-direction: column !important;
     justify-content: flex-start !important;
     align-items: center !important;
-    height: 650vh !important;
+    
   }
 
   .loginPage {
